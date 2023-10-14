@@ -1,0 +1,37 @@
+.Card-Product {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .Products img {
+    height: 300px;
+  }
+  
+  .btn-section {
+    display: flex;
+    justify-content: center;
+  }
+  
+.Product-details{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    height: 100%;
+}
+
+.Product-details img{
+    height: 300px;
+}
+
+
+.Product-details{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    height: 100%;
+}
+
+.Product-details img{
+    height: 300px;
+}
+

@@ -1,0 +1,12 @@
+.Filters{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    
+    color:rgb(217, 150, 61) ;
+
+}
+
+li:hover{
+    font-weight: 600;
+}

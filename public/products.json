@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Collar Venecia",
+        "category": "Collares",
+        "description": "Collar de cuero vacuno Marrón y herrajes de acero inoxidable antialérgicos.",
+        "price": 7000,
+        "image": "/images/id01.png",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Bandana Hawaii",
+        "category": "Indumentaria",
+        "description": "Pañuelo bandana estampado con elástico en la parte trasera. Estampa Hawaiiana",
+        "price": 5000,
+        "image": "/images/id02.png",
+        "quantity":1
+    },
+    {
+        "id": 3,
+        "name":"Cama Roma",
+        "category":"Camas",
+        "description":"Cama rectangular en tela gabardina con manta reversible gabardina & polar. Color Cemento. Tamaño: S, M, L, XL",
+        "price": 27000,
+        "image":"/images/id03.png",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name":"Bandana Americana",
+        "category":"Indumentaria",
+        "description":"Pañuelo bandana estampado con elástico en la parte trasera. Estampa tipo Bandera Estados Unidos",
+        "price": 5000,
+        "image":"/images/id04.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name":"Collar Madrid",
+        "category":"Collares",
+        "description":"Collar de cuero ecológico Blanco y herrajes de acero inoxidable antialérgicos.",
+        "price": 6000,
+        "image":"/images/id05.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name":"Cama Hamburgo",
+        "category":"Camas",
+        "description":"Cama redonda en tela tipo peluche & polar. Color Natural. Tamaño: S, M, L, XL",
+        "price": 25000,
+        "image":"/images/id06.jpg",
+        "quantity": 1
+    }
+    
+]
